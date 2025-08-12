@@ -3,7 +3,7 @@ layout: default
 title:  "Dispersion of Droplet Group Through Mesh"
 date: 2025-08-12 +00:00
 image: /images/DropletThroughMesh.png
-categories: research
+categories: project
 author: "Seunghoon Kim"
 authors: "Seunghoon Kim, Hyungmin Park"
 venue: "B.S. Thesis for Mechanical Engineering"
