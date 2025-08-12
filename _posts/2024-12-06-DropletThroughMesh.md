@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Dispersion of Droplet Group Through Mesh"
-date: 2025-08-12 +00:00
+date: 2024-12-06 +00:00
 image: /images/DropletThroughMesh.png
 categories: project
 author: "Seunghoon Kim"
